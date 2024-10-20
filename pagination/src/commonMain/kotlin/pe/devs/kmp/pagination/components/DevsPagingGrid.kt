@@ -24,7 +24,7 @@ import pe.devs.kmp.pagination.pagination.generated.resources.labels_empty
 
 @OptIn(ExperimentalResourceApi::class)
 @Composable
-fun <T : Any> PagingGrid(
+fun <T : Any> DevsPagingGrid(
     columns: Int,
     verticalArrangement: Arrangement.Vertical = Arrangement.spacedBy(5.dp),
     horizontalArrangement: Arrangement.Horizontal = Arrangement.spacedBy(5.dp),

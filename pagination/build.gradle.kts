@@ -127,7 +127,7 @@ android {
 
 mavenPublishing {
 
-    coordinates("pe.devs.kmp", "pagination", "1.0.0")
+    coordinates("pe.devs.kmp", "pagination", "1.0.1")
 
     pom {
         name.set("Pagination")
