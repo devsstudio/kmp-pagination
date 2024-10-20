@@ -1,0 +1,12 @@
+<resources>
+    <string name="cyclone">Cyclone</string>
+    <string name="open_github">Open github</string>
+    <string name="run">Run</string>
+    <string name="stop">Stop</string>
+    <string name="theme">Theme</string>
+    <string name="labels_try_again">Volver a intentar</string>
+
+    <string name="labels_empty">No hay resultados</string>
+
+    <string name="exception_pagination_error">Ocurrio un error al traer los datos</string>
+</resources>
